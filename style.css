@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: snow;
+  text-align: center;
+}
+
+/* Se pone el "." para hacer una clase */
+.menor {
+  color: tomato;
+}
+
+.mayor {
+  color: limegreen;
+}
+
+button {
+  margin: 0px 0.5rem;
+}
